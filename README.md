@@ -9,3 +9,5 @@ O objetivo do algoritmo neste trabalho é implementar a busca no grafo, dados o 
 busca em largura até encontrar B. Uma aplicação desse tipo de algoritmo é que ele permite encontrar o menor caminho entre A e B, em termos de número de 
 arestas percorridas. Nesse sentido, após a aplicação da busca, a saída deve ser a sequência de vértices visitados entre A e B. Para implemetação do grafo 
 foi utilizada a matriz de adjacência.
+
+![image](https://github.com/deboralawall/EDA1/assets/86936640/7a85a4a8-8dee-4615-88ad-c0d9f3561940)
