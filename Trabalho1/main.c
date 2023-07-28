@@ -1,5 +1,4 @@
-//Alunas: Débora Lawall Langner e Monique Hemily Almeida Mendes
-//Trabalho 1 EDA
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "Matriz.h"
