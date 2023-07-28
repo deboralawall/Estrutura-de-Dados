@@ -1,4 +1,3 @@
-//Alunas Débora Lawall Langner e Monique Hemily Almeida Mendes
 
 #include <stdio.h>
 #include <stdlib.h>
